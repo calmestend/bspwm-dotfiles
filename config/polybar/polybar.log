@@ -1,0 +1,15 @@
+bash: $'\E[200~polybar': command not found
+polybar|notice:  Parsing config file: /home/marko/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 11569)
+polybar|notice:  Loading module 'xworkspaces' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'spotify' of type 'custom/script'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_06_00.6.HiFi__hw_Generic_1__sink
+polybar|notice:  Loading module 'xkeyboard' of type 'internal/xkeyboard'
+polybar|notice:  Loading module 'wlan' of type 'internal/network'
+polybar|notice:  module/wlan: Discovered wireless interface wlo1
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loading module 'battery' of type 'internal/battery'
+polybar|notice:  Loaded 7 modules
+polybar|notice:  Loaded font "JetBrainsMono Nerd Font" (name=JetBrainsMono Nerd Font, offset=2, file=/usr/share/fonts/nerd-fonts/JetBrainsMonoNerdFont-Regular.ttf)
+polybar|notice:  Termination signal received, shutting down...
