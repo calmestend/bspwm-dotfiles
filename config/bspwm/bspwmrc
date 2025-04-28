@@ -2,7 +2,7 @@
 
 pgrep -x sxhkd > /dev/null || sxhkd &
 
-bspc monitor -d           
+bspc monitor -d                
 
 bspc config border_width         2
 bspc config window_gap           4
